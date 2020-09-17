@@ -1,0 +1,234 @@
+LOCATION,TIME,Value
+Australia,2020-01,5.273261
+Australia,2020-02,5.086473000000001
+Australia,2020-03,5.225147
+Australia,2020-04,6.366805
+Australia,2020-05,7.077647
+Australia,2020-06,7.448942999999999
+Australia,2020-07,7.493616
+Austria,2020-01,4.4
+Austria,2020-02,4.4
+Austria,2020-03,4.6
+Austria,2020-04,4.7
+Austria,2020-05,5.5
+Austria,2020-06,5.4
+Austria,2020-07,5.2
+Belgium,2020-01,5.1
+Belgium,2020-02,5.0
+Belgium,2020-03,5.1
+Belgium,2020-04,5.3
+Belgium,2020-05,5.4
+Belgium,2020-06,5.5
+Belgium,2020-07,5.5
+Canada,2020-01,5.5
+Canada,2020-02,5.6
+Canada,2020-03,7.8
+Canada,2020-04,13.0
+Canada,2020-05,13.7
+Canada,2020-06,12.3
+Canada,2020-07,10.9
+Czech Republic,2020-01,2.0
+Czech Republic,2020-02,2.0
+Czech Republic,2020-03,2.1
+Czech Republic,2020-04,2.2
+Czech Republic,2020-05,2.4
+Czech Republic,2020-06,2.7
+Czech Republic,2020-07,2.7
+Denmark,2020-01,4.9
+Denmark,2020-02,4.9
+Denmark,2020-03,4.8
+Denmark,2020-04,4.9
+Denmark,2020-05,5.5
+Denmark,2020-06,6.0
+Denmark,2020-07,6.0
+Finland,2020-01,6.8
+Finland,2020-02,6.9
+Finland,2020-03,7.0
+Finland,2020-04,7.2
+Finland,2020-05,7.4
+Finland,2020-06,7.6
+Finland,2020-07,7.8
+France,2020-01,8.0
+France,2020-02,7.7
+France,2020-03,7.5
+France,2020-04,7.8
+France,2020-05,6.9
+France,2020-06,6.6
+France,2020-07,6.9
+Germany,2020-01,3.4
+Germany,2020-02,3.6
+Germany,2020-03,3.8
+Germany,2020-04,4.0
+Germany,2020-05,4.2
+Germany,2020-06,4.3
+Germany,2020-07,4.4
+Greece,2020-01,16.2
+Greece,2020-02,15.9
+Greece,2020-03,14.5
+Greece,2020-04,15.7
+Greece,2020-05,17.0
+Hungary,2020-01,3.4
+Hungary,2020-02,3.6
+Hungary,2020-03,3.7
+Hungary,2020-04,4.1
+Hungary,2020-05,4.8
+Hungary,2020-06,4.9
+Iceland,2020-01,3.8
+Iceland,2020-02,3.9
+Iceland,2020-03,3.5
+Iceland,2020-04,3.9
+Iceland,2020-05,4.5
+Iceland,2020-06,4.5
+Iceland,2020-07,5.0
+Ireland,2020-01,4.9
+Ireland,2020-02,4.8
+Ireland,2020-03,5.2
+Ireland,2020-04,5.0
+Ireland,2020-05,5.0
+Ireland,2020-06,4.6
+Ireland,2020-07,5.0
+Italy,2020-01,9.6
+Italy,2020-02,9.4
+Italy,2020-03,8.5
+Italy,2020-04,7.3
+Italy,2020-05,8.5
+Italy,2020-06,9.3
+Italy,2020-07,9.7
+Japan,2020-01,2.4
+Japan,2020-02,2.4
+Japan,2020-03,2.5
+Japan,2020-04,2.6
+Japan,2020-05,2.9
+Japan,2020-06,2.8
+Japan,2020-07,2.9
+South Korea,2020-01,4.0
+South Korea,2020-02,3.3
+South Korea,2020-03,3.8
+South Korea,2020-04,3.8
+South Korea,2020-05,4.5
+South Korea,2020-06,4.3
+South Korea,2020-07,4.2
+Luxembourg,2020-01,5.7
+Luxembourg,2020-02,5.8
+Luxembourg,2020-03,6.5
+Luxembourg,2020-04,7.5
+Luxembourg,2020-05,7.7
+Luxembourg,2020-06,7.7
+Luxembourg,2020-07,7.3
+Mexico,2020-01,3.6281199999999996
+Mexico,2020-02,3.6099349999999997
+Mexico,2020-03,3.267292
+Mexico,2020-04,4.7
+Mexico,2020-05,4.2
+Mexico,2020-06,5.5
+Netherlands,2020-01,3.0
+Netherlands,2020-02,2.9
+Netherlands,2020-03,2.9
+Netherlands,2020-04,3.4
+Netherlands,2020-05,3.6
+Netherlands,2020-06,4.3
+Netherlands,2020-07,4.5
+Norway,2020-01,3.7
+Norway,2020-02,3.5
+Norway,2020-03,3.6
+Norway,2020-04,4.1
+Norway,2020-05,4.6
+Norway,2020-06,5.2
+Poland,2020-01,3.0
+Poland,2020-02,3.0
+Poland,2020-03,3.0
+Poland,2020-04,3.1
+Poland,2020-05,3.3
+Poland,2020-06,3.3
+Poland,2020-07,3.2
+Portugal,2020-01,6.8
+Portugal,2020-02,6.4
+Portugal,2020-03,6.2
+Portugal,2020-04,6.3
+Portugal,2020-05,5.9
+Portugal,2020-06,7.3
+Portugal,2020-07,8.1
+Slovakia,2020-01,6.1
+Slovakia,2020-02,6.1
+Slovakia,2020-03,5.8
+Slovakia,2020-04,6.4
+Slovakia,2020-05,6.5
+Slovakia,2020-06,6.6
+Slovakia,2020-07,6.8
+Spain,2020-01,13.8
+Spain,2020-02,13.6
+Spain,2020-03,14.5
+Spain,2020-04,15.3
+Spain,2020-05,15.4
+Spain,2020-06,15.8
+Spain,2020-07,15.8
+Sweden,2020-01,7.2
+Sweden,2020-02,7.6
+Sweden,2020-03,6.8
+Sweden,2020-04,7.9
+Sweden,2020-05,8.5
+Sweden,2020-06,9.2
+Sweden,2020-07,9.2
+Turkey,2020-01,12.6
+Turkey,2020-02,12.6
+Turkey,2020-03,12.9
+Turkey,2020-04,13.6
+Turkey,2020-05,14.0
+United Kingdom,2020-01,3.9
+United Kingdom,2020-02,3.9
+United Kingdom,2020-03,3.8
+United Kingdom,2020-04,3.9
+United Kingdom,2020-05,3.8
+United States,2020-01,3.6
+United States,2020-02,3.5
+United States,2020-03,4.4
+United States,2020-04,14.7
+United States,2020-05,13.3
+United States,2020-06,11.1
+United States,2020-07,10.2
+Chile,2020-01,8.095886
+Chile,2020-02,8.170632000000001
+Chile,2020-03,9.040819
+Chile,2020-04,10.87142
+Chile,2020-05,11.74416
+Estonia,2020-01,4.7
+Estonia,2020-02,4.7
+Estonia,2020-03,4.8
+Estonia,2020-04,6.0
+Estonia,2020-05,7.0
+Estonia,2020-06,8.0
+Israel,2020-01,3.6268620000000005
+Israel,2020-02,3.4356660000000003
+Israel,2020-03,3.582504
+Israel,2020-04,3.678443
+Israel,2020-05,4.2652779999999995
+Israel,2020-06,4.557169999999999
+Israel,2020-07,4.607702
+Slovenia,2020-01,4.2
+Slovenia,2020-02,4.2
+Slovenia,2020-03,4.3
+Slovenia,2020-04,4.7
+Slovenia,2020-05,4.8
+Slovenia,2020-06,4.8
+Slovenia,2020-07,4.7
+Latvia,2020-01,7.0
+Latvia,2020-02,7.0
+Latvia,2020-03,7.2
+Latvia,2020-04,8.2
+Latvia,2020-05,8.7
+Latvia,2020-06,8.9
+Latvia,2020-07,9.0
+Lithuania,2020-01,6.1
+Lithuania,2020-02,6.3
+Lithuania,2020-03,6.6
+Lithuania,2020-04,7.8
+Lithuania,2020-05,8.5
+Lithuania,2020-06,8.8
+Lithuania,2020-07,9.0
+Colombia,2020-01,10.594710000000001
+Colombia,2020-02,10.84331
+Colombia,2020-03,12.19545
+Colombia,2020-04,20.17478
+Colombia,2020-05,21.21399
+Colombia,2020-06,20.82111
+Colombia,2020-07,19.7451

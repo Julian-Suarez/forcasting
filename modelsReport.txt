@@ -1,0 +1,58 @@
+=========================================================
+Model Report
+=========================================================
+
+---------------------------------------------------------
+Report for squared log error model
+
+max depth and min_child_weight root mean squared error
+3.9591463187242573
+Gamma Parameter root mean squared error
+3.9591463187242573
+Subsample and colsample_bytree root mean squared error
+3.9591463187242573
+Regularization root mean squared error
+3.9591463187242573
+Model Report
+root_mean_squared_error: 3.6589
+Model Report
+root_mean_squared_error: 7.2626
+
+End of Report
+
+--------------------------------------------------------
+Report for squared error model
+
+max depth and min_child_weight root mean squared error
+3.946075402519142
+Gamma Parameter root mean squared error
+3.946075402519142
+Subsample and colsample_bytree root mean squared error
+3.946075402519142
+Regularization root mean squared error
+3.946075402519142
+Model Report
+root_mean_squared_error: 0.8636
+Model Report
+root_mean_squared_error: 0.8374
+
+End of Report
+
+--------------------------------------------------------
+Report for pseudo huber error model
+
+max depth and min_child_weight root mean squared error
+3.8510578533683164
+Gamma Parameter root mean squared error
+3.8510578533683164
+Subsample and colsample_bytree root mean squared error
+3.8510578533683164
+Regularization root mean squared error
+3.8510578533683164
+Model Report
+root_mean_squared_error: 2.6006
+Model Report
+root_mean_squared_error: 1.3006
+
+End of Report
+
